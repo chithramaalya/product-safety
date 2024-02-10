@@ -1,0 +1,2 @@
+Compliance report generated: compliance_report.xlsx
+Alert sent to admin@example.com: Compliance report ready for review.
